@@ -1,0 +1,11 @@
+Electricity Consumption Analysis & Power Demand Dashboard
+
+IMPORTANT: The dataset in this project is synthetic/simulated and was created for portfolio learning.
+
+Rows after cleaning: 8,760
+Total consumption: 1,997,001.45 kWh
+Average hourly consumption: 227.97 kWh
+Peak demand: 365.12 kWh
+Minimum demand: 105.22 kWh
+90th percentile peak threshold: 288.66 kWh
+Peak observations: 876
